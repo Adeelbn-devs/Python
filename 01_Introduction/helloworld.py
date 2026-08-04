@@ -19,4 +19,5 @@ print(type('Adeel'))                        #string
 print(type([1, 2, 3]))                      #list
 print(type({'name': 'Adeel', 'age': 21}))   #dictionary
 print(type({9.8, 3.14, 2.71}))              #set
+print(type((1, 2, 3)))                      #tuple
 
