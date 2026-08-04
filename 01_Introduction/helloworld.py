@@ -6,3 +6,6 @@ print(2+3) #addition(+)
 print(3-1) #subtraction(-)
 print(2*3) #multiplication(*)
 print(6/2) #division(/)
+print(3 ** 3) #exponential(**)
+
+
