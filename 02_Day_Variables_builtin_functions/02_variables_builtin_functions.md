@@ -22,5 +22,9 @@ Built-in functions are globally available in Python without any imports:
 3. Contains only alphanumeric characters and underscores (`a-z`, `0-9`, `_`).
 4. Case-sensitive (`first_name` $\neq$ `First_Name`).
 
+### Examples
+- **Valid:** `first_name`, `age_2026`, `_is_active`
+- **Invalid:** `1st_name`, `first-name`, `first name`
+
 
 
