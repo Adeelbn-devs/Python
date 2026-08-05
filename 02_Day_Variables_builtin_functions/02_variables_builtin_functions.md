@@ -34,3 +34,11 @@ Built-in functions are globally available in Python without any imports:
 - **Float (`float`):** `3.14`, `9.81`
 - **String (`str`):** `'Python'`
 - **Boolean (`bool`):** `True`, `False`
+
+### Type Casting Examples
+```python
+num_int = 10
+num_float = float(num_int) # Convert to 10.0
+
+gravity = 9.81
+int_gravity = int(gravity) # Convert to 9
