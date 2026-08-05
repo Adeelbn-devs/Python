@@ -26,5 +26,11 @@ Built-in functions are globally available in Python without any imports:
 - **Valid:** `first_name`, `age_2026`, `_is_active`
 - **Invalid:** `1st_name`, `first-name`, `first name`
 
+---
 
-
+## 📌 Data Types & Casting
+### Primary Data Types
+- **Integer (`int`):** `10`, `-5`
+- **Float (`float`):** `3.14`, `9.81`
+- **String (`str`):** `'Python'`
+- **Boolean (`bool`):** `True`, `False`
