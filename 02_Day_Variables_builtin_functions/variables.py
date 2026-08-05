@@ -66,3 +66,8 @@ circum_of_circle = 2 * pi * radius
 print("\n---Circle Calculations ---")
 print("Area of Circle:", area_of_circle)
 print("Circumference of Circle:", circum_of_circle)
+
+# 5. Type Casting
+num_str = '10'
+num_int = int(num_str)
+print("Converted string '10' to int:", type(num_int))
