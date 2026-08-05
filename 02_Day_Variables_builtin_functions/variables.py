@@ -32,3 +32,7 @@ print("\n--- Level 2 ---")
 print("Type of first_name:", type(first_name))
 print("Type of age:", type(age))
 print("Type of is_married:", type(is_married))
+
+# 2. Compare Lengths
+print("First Name Length:", len(first_name))
+print("Last Name Length:", len(last_name))
