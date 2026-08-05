@@ -36,3 +36,23 @@ print("Type of is_married:", type(is_married))
 # 2. Compare Lengths
 print("First Name Length:", len(first_name))
 print("Last Name Length:", len(last_name))
+
+# 3. Arithmetic Operations
+num_one = 5
+num_two = 4
+
+total = num_one + num_two
+diff = num_one - num_two
+product = num_one * num_two
+division = num_one / num_two
+remainder = num_one % num_two
+exponent = num_one ** num_two
+floor_division = num_one // num_two
+
+print("Addition:", total)
+print("Subtraction:", diff)
+print("Multiplication:", product)
+print("Division:", division)
+print("Modulus:", remainder)
+print("Power (5^4):", exponent)
+print("Floor Division:", floor_division)
