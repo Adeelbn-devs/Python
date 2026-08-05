@@ -22,3 +22,13 @@ print("--- Level 1 ---")
 print("Full Name:", full_name)
 print("Country:", country)
 print("Skills:", skills)
+
+
+# ==================== LEVEL 2 ====================
+print("\n--- Level 2 ---")
+
+# 1. Check Data Types
+
+print("Type of first_name:", type(first_name))
+print("Type of age:", type(age))
+print("Type of is_married:", type(is_married))
