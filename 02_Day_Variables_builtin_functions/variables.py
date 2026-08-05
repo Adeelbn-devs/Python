@@ -14,3 +14,11 @@ year = 2026
 is_married = False
 is_true = True
 is_light_on = True
+
+# Declaring multiple variables in one line
+role, skills = 'Developer', ['HTML', 'CSS', 'JS', 'Python']
+
+print("--- Level 1 ---")
+print("Full Name:", full_name)
+print("Country:", country)
+print("Skills:", skills)
