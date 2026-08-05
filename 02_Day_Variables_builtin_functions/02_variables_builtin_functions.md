@@ -6,7 +6,7 @@ A simple breakdown of Python built-in functions, variable rules, data types, and
 
 ## 📌 Built-in Functions
 
-![alt text](image.png)
+![images](../images.png)
 
 Built-in functions are globally available in Python without any imports:
 - `print()` - Displays output to the console.
