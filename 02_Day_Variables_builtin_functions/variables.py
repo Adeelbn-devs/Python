@@ -56,3 +56,13 @@ print("Division:", division)
 print("Modulus:", remainder)
 print("Power (5^4):", exponent)
 print("Floor Division:", floor_division)
+
+# 4. Circle Calculations (Radius = 30)
+radius = 30
+pi = 3.14
+area_of_circle = pi * (radius ** 2)
+circum_of_circle = 2 * pi * radius
+
+print("\n---Circle Calculations ---")
+print("Area of Circle:", area_of_circle)
+print("Circumference of Circle:", circum_of_circle)
