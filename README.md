@@ -7,7 +7,7 @@ Welcome to my Python repository! I am learning Python step-by-step, building con
 ## 📌 Repository Structure & Progress Tracker
 
 - [**01_Introduction**](./01_Introduction) — Installation, Syntax, Print, Comments
-- [**02_Variables_DataTypes**](./02_Variables_DataTypes) — Variables, Types, Casting
+- [**02_day_Variables_DataTypes**](./02_Variables_DataTypes) — Variables, Types, Casting
 - [**03_Operators**](./03_Operators) — Arithmetic, Logical, Bitwise Operators
 - [**04_Strings**](./04_Strings) — Slicing, String Methods, Formatting
 - [**05_Lists_Tuples**](./05_Lists_Tuples) — Ordered collections, Methods
