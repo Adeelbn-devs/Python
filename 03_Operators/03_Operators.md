@@ -42,3 +42,13 @@ In programming we compare values, we use comparison operators to compare two val
 - `>` Greater than | `<` Less than
 - `in` / `not in` Checks if an element exists inside a string/list.
 - `is` / `is not` Checks object identity in memory.
+
+
+### Logical Operators
+Unlike other programming languages python uses keywords and, or and not for logical operators. Logical operators are used to combine conditional statements:
+
+<img width="1097" height="364" alt="image" src="https://github.com/user-attachments/assets/19919891-15fa-4a98-bf6b-3b3b5d981fa9" />
+
+- `and` — Returns `True` if BOTH statements are true.
+- `or` — Returns `True` if AT LEAST ONE statement is true.
+- `not` — Reverses the boolean result.
