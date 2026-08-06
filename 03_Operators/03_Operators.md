@@ -22,6 +22,7 @@ Assignment operators are used to assign values to variables. Let us take = as an
 
 <img width="1101" height="483" alt="image" src="https://github.com/user-attachments/assets/c2fab340-0fba-4708-bce4-d7e1db64214a" />
 
+
 | Operator | Name | Example | Result |
 |---|---|---|---|
 | `+` | Addition | `5 + 2` | `7` |
@@ -38,6 +39,7 @@ In programming we compare values, we use comparison operators to compare two val
 
 <img width="1093" height="428" alt="image" src="https://github.com/user-attachments/assets/80aa3249-97c5-4597-8655-25630cc7589d" />
 
+
 - `==` Equal to | `!=` Not Equal to
 - `>` Greater than | `<` Less than
 - `in` / `not in` Checks if an element exists inside a string/list.
@@ -49,6 +51,10 @@ Unlike other programming languages python uses keywords and, or and not for logi
 
 <img width="1097" height="364" alt="image" src="https://github.com/user-attachments/assets/19919891-15fa-4a98-bf6b-3b3b5d981fa9" />
 
+
 - `and` — Returns `True` if BOTH statements are true.
 - `or` — Returns `True` if AT LEAST ONE statement is true.
 - `not` — Reverses the boolean result.
+
+## 📝 Solved Exercises
+All 23 practice problems (geometry calculations, slope comparisons, string membership checks, pay rate calculations) are implemented in `operators.py`.
