@@ -56,5 +56,7 @@ Unlike other programming languages python uses keywords and, or and not for logi
 - `or` — Returns `True` if AT LEAST ONE statement is true.
 - `not` — Reverses the boolean result.
 
+---
+
 ## 📝 Solved Exercises
 All 23 practice problems (geometry calculations, slope comparisons, string membership checks, pay rate calculations) are implemented in `operators.py`.
