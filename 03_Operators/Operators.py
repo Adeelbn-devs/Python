@@ -55,3 +55,7 @@ print("Falsy Comparison (python len != dragon len):", len_python != len_dragon)
 
 # 13. 'on' in both 'python' and 'dragon'
 print("'on' in both words:", ('on' in 'python') and ('on' in 'dragon'))
+
+# 14. Check if 'jargon' is in sentence
+sentence = "I hope this course is not full of jargon"
+print("'jargon' in sentence:", 'jargon' in sentence)
