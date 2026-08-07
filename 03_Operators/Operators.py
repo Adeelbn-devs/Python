@@ -21,3 +21,10 @@ length, width = 10, 20
 area_rect = length * width
 perimeter_rect = 2 * (length + width)
 print("Rectangle Area:", area_rect, "| Perimeter:", perimeter_rect)
+
+# 7. Circle Area and Circumference
+radius = 10
+pi = 3.14
+area_circle = pi * (radius ** 2)
+circum_circle = 2 * pi * radius
+print("Circle Area:", area_circle, "| Circumference:", circum_circle)
