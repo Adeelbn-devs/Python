@@ -62,3 +62,7 @@ print("'jargon' in sentence:", 'jargon' in sentence)
 
 # 15. Confirm 'on' is present in both
 print("No 'on' in both (False check):", ('on' not in 'python') and ('on' not in 'dragon'))
+
+# 16. Convert len('python') to float and then str
+len_py_str = str(float(len('python')))
+print("Length converted to float then str:", len_py_str, type(len_py_str))
