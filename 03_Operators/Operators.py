@@ -66,3 +66,8 @@ print("No 'on' in both (False check):", ('on' not in 'python') and ('on' not in 
 # 16. Convert len('python') to float and then str
 len_py_str = str(float(len('python')))
 print("Length converted to float then str:", len_py_str, type(len_py_str))
+
+# 17. Even number check
+num = 10
+is_even = (num % 2 == 0)
+print(f"Is {num} even?:", is_even)
