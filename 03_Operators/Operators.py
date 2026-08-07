@@ -32,3 +32,8 @@ print("Circle Area:", area_circle, "| Circumference:", circum_circle)
 # 8, 9, 10. Slope Calculations
 # Slope of y = 2x - 2 (m = 2)
 m1 = 2
+
+# Slope between (2, 2) and (6, 10): m = (y2-y1)/(x2-x1)
+x1, y1, x2, y2 = 2, 2, 6, 10
+m2 = (y2 - y1) / (x2 - x1)
+euclidean_dist = ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
