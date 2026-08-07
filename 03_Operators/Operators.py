@@ -71,3 +71,6 @@ print("Length converted to float then str:", len_py_str, type(len_py_str))
 num = 10
 is_even = (num % 2 == 0)
 print(f"Is {num} even?:", is_even)
+
+# 18. Check floor division 7 // 3 == int(2.7)
+print("7 // 3 == int(2.7):", (7 // 3) == int(2.7))
