@@ -41,3 +41,9 @@ euclidean_dist = ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
 print("Slope 1:", m1, "| Slope 2:", m2)
 print("Are slopes equal?:", m1 == m2)
 print("Euclidean Distance:", euclidean_dist)
+
+# 11. Find x where y = x^2 + 6x + 9 is 0
+# Equation is (x + 3)^2 = 0 => x = -3
+x = -3
+y = x**2 + 6*x + 9
+print("y value at x = -3:", y)
