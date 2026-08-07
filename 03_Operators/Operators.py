@@ -92,3 +92,8 @@ print("Weekly Earning:", weekly_earning)
 years_lived = 100
 seconds_lived = years_lived * 365 * 24 * 60 * 60
 print(f"Seconds lived in {years_lived} years:", seconds_lived)
+
+# 23. Display Table
+print("\n--- Display Table ---")
+for i in range(1, 6):
+    print(f"{i} 1 {i} {i**2} {i**3}")
