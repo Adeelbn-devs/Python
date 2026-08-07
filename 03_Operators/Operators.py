@@ -59,3 +59,6 @@ print("'on' in both words:", ('on' in 'python') and ('on' in 'dragon'))
 # 14. Check if 'jargon' is in sentence
 sentence = "I hope this course is not full of jargon"
 print("'jargon' in sentence:", 'jargon' in sentence)
+
+# 15. Confirm 'on' is present in both
+print("No 'on' in both (False check):", ('on' not in 'python') and ('on' not in 'dragon'))
