@@ -87,3 +87,8 @@ hours = 40
 rate_per_hour = 28
 weekly_earning = hours * rate_per_hour
 print("Weekly Earning:", weekly_earning)
+
+# 22. Seconds lived calculation (e.g. 100 years)
+years_lived = 100
+seconds_lived = years_lived * 365 * 24 * 60 * 60
+print(f"Seconds lived in {years_lived} years:", seconds_lived)
