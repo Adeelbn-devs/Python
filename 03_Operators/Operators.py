@@ -37,3 +37,7 @@ m1 = 2
 x1, y1, x2, y2 = 2, 2, 6, 10
 m2 = (y2 - y1) / (x2 - x1)
 euclidean_dist = ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
+
+print("Slope 1:", m1, "| Slope 2:", m2)
+print("Are slopes equal?:", m1 == m2)
+print("Euclidean Distance:", euclidean_dist)
