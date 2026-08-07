@@ -74,3 +74,6 @@ print(f"Is {num} even?:", is_even)
 
 # 18. Check floor division 7 // 3 == int(2.7)
 print("7 // 3 == int(2.7):", (7 // 3) == int(2.7))
+
+# 19. Check type('10') == type(10)
+print("type('10') == type(10):", type('10') == type(10))
