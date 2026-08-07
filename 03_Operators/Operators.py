@@ -77,3 +77,7 @@ print("7 // 3 == int(2.7):", (7 // 3) == int(2.7))
 
 # 19. Check type('10') == type(10)
 print("type('10') == type(10):", type('10') == type(10))
+
+# 20. Check float string conversion to int equality
+# Note: int('9.8') directly raises Error, so convert float('9.8') to int first
+print("int(float('9.8')) == 10:", int(float('9.8')) == 10)
