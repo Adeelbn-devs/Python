@@ -10,3 +10,8 @@ base = 20
 h_triangle = 10
 area_triangle = 0.5 * base * h_triangle
 print("Triangle Area:", area_triangle)
+
+# 5. Triangle Perimeter Calculation
+side_a, side_b, side_c = 5, 4, 3
+perimeter_triangle = side_a + side_b + side_c
+print("Triangle Perimeter:", perimeter_triangle)
