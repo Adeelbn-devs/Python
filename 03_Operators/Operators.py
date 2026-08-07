@@ -52,3 +52,6 @@ print("y value at x = -3:", y)
 len_python = len('python')
 len_dragon = len('dragon')
 print("Falsy Comparison (python len != dragon len):", len_python != len_dragon)
+
+# 13. 'on' in both 'python' and 'dragon'
+print("'on' in both words:", ('on' in 'python') and ('on' in 'dragon'))
