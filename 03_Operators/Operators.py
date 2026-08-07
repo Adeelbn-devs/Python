@@ -28,3 +28,7 @@ pi = 3.14
 area_circle = pi * (radius ** 2)
 circum_circle = 2 * pi * radius
 print("Circle Area:", area_circle, "| Circumference:", circum_circle)
+
+# 8, 9, 10. Slope Calculations
+# Slope of y = 2x - 2 (m = 2)
+m1 = 2
