@@ -47,3 +47,8 @@ print("Euclidean Distance:", euclidean_dist)
 x = -3
 y = x**2 + 6*x + 9
 print("y value at x = -3:", y)
+
+# 12. Length comparison of 'python' and 'dragon'
+len_python = len('python')
+len_dragon = len('dragon')
+print("Falsy Comparison (python len != dragon len):", len_python != len_dragon)
