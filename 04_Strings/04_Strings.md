@@ -23,6 +23,8 @@ sentence = "Python is awesome!"         # Double quote string
 multiline = '''I am learning Python
 step-by-step with daily commits.'''     # Multiline string
 
+---
+
 
 ## 2. String Concatenation
 Joining two or more strings together using the + operator or .join().
@@ -31,3 +33,19 @@ first_name = 'Adeel'
 last_name + 'B N'
 full_name = first_name + ' ' + last_name
 pront(full_name)   #Output: Adeel B N
+
+---
+
+
+## 3. Escape Sequences
+Special characters used to format output inside strings:
+
+\n: Newline
+
+\t: Tab space (4 spaces)
+
+\\: Backslash
+
+\': Single Quote
+
+\": Double Quote
