@@ -78,7 +78,7 @@ print(language[::-1])  # 'nohtyP' (Reverse string shortcut)
 
 ## 6. Useful String Methods
 
-Method              |Description                            |Example Output
+Method              |Description                                |Example Output
 .upper()            |Converts to uppercase                      |'PYTHON'
 .lower()            |Converts to lowercase                      |'python'
 .title()            |Capitalizes first letter of each word      |'Hello World'
