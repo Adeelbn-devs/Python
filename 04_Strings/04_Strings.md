@@ -69,3 +69,9 @@ Indexing (0-Based)
 language = 'Python'
 print(language[0])   # 'P'
 print(language[-1])  # 'n' (Last character)
+
+Slicing ([start:stop:step])
+
+print(language[0:4])   # 'Pyth' (From index 0 to 3)
+print(language[2:])    # 'thon' (From index 2 to end)
+print(language[::-1])  # 'nohtyP' (Reverse string shortcut)
