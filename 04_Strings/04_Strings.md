@@ -16,7 +16,7 @@ A string is a sequence of characters enclosed in quotes. Strings in Python can b
 
 
 ## 1. Creating Strings
-```python
+``python
 letter = 'P'                            # Single character string
 greeting = 'Hello, World!'              # Single quote string
 sentence = "Python is awesome!"         # Double quote string
@@ -49,3 +49,14 @@ Special characters used to format output inside strings:
 \': Single Quote
 
 \": Double Quote
+
+Example:
+print("Day 4\nTopic: Strings\tLanguage: Python")
+
+## 4. String Formatting
+Python supports modern F-Strings (f"..."), which make variable interpolation easy and readable:
+
+name = "Adeel"
+age = 19
+role = "Developer"
+
