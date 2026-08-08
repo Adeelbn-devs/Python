@@ -11,3 +11,13 @@ A string is a sequence of characters enclosed in quotes. Strings in Python can b
 4. [String Formatting (F-Strings)](#4-string-formatting)
 5. [Indexing & Slicing](#5-indexing--slicing)
 6. [Useful String Methods](#6-useful-string-methods)
+
+---
+
+## 1. Creating Strings
+```python
+letter = 'P'                            # Single character string
+greeting = 'Hello, World!'              # Single quote string
+sentence = "Python is awesome!"         # Double quote string
+multiline = '''I am learning Python
+step-by-step with daily commits.'''     # Multiline string
