@@ -53,6 +53,9 @@ Special characters used to format output inside strings:
 Example:
 print("Day 4\nTopic: Strings\tLanguage: Python")
 
+---
+
+
 ## 4. String Formatting
 Python supports modern F-Strings (f"..."), which make variable interpolation easy and readable:
 
@@ -62,6 +65,9 @@ role = "Developer"
 
 # Modern F-String (Recommended)
 print(f"My name is {name}, I am {age} years old and I am a {role}.")
+
+---
+
 
 ## 5. Indexing & Slicing
 Indexing (0-Based)
@@ -75,6 +81,9 @@ Slicing ([start:stop:step])
 print(language[0:4])   # 'Pyth' (From index 0 to 3)
 print(language[2:])    # 'thon' (From index 2 to end)
 print(language[::-1])  # 'nohtyP' (Reverse string shortcut)
+
+---
+
 
 ## 6. Useful String Methods
 
