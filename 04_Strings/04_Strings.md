@@ -60,3 +60,5 @@ name = "Adeel"
 age = 19
 role = "Developer"
 
+# Modern F-String (Recommended)
+print(f"My name is {name}, I am {age} years old and I am a {role}.")
