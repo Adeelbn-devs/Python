@@ -62,3 +62,10 @@ role = "Developer"
 
 # Modern F-String (Recommended)
 print(f"My name is {name}, I am {age} years old and I am a {role}.")
+
+## 5. Indexing & Slicing
+Indexing (0-Based)
+
+language = 'Python'
+print(language[0])   # 'P'
+print(language[-1])  # 'n' (Last character)
