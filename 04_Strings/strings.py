@@ -25,3 +25,8 @@ print("9. First Word:", first_word)
 
 # 10. Check if string contains 'Coding'
 print("10. Contains 'Coding'?:", 'Coding' in company)
+
+# 11, 12. Replace words
+print("11. Replace 'Coding' with 'Python':", company.replace('Coding', 'Python'))
+sentence_everyone = "Python for Everyone"
+print("12. Replace 'Everyone' with 'All':", sentence_everyone.replace('Everyone', 'All'))
