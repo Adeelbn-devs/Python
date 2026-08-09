@@ -35,3 +35,8 @@ print("12. Replace 'Everyone' with 'All':", sentence_everyone.replace('Everyone'
 print("13. Split 'Coding For All':", company.split(' '))
 tech_companies = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
 print("14. Tech Companies List:", tech_companies.split(', '))
+
+# 15, 16, 17. Indexing characters
+print("15. Character at index 0:", company[0])
+print("16. Character at last index:", company[-1])
+print("17. Character at index 10:", company[10])
