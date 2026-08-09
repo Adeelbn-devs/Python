@@ -45,3 +45,8 @@ print("17. Character at index 10:", company[10])
 phrase1 = "Python For Everyone"
 acronym1 = ''.join([w[0] for w in phrase1.split()])
 print("18. Acronym for 'Python For Everyone':", acronym1)
+
+phrase2 = "Coding For All"
+acronym2 = ''.join([w[0] for w in phrase2.split()])
+print("19. Acronym for 'Coding For All':", acronym2)
+
