@@ -40,3 +40,8 @@ print("14. Tech Companies List:", tech_companies.split(', '))
 print("15. Character at index 0:", company[0])
 print("16. Character at last index:", company[-1])
 print("17. Character at index 10:", company[10])
+
+# 18, 19. Acronym creation
+phrase1 = "Python For Everyone"
+acronym1 = ''.join([w[0] for w in phrase1.split()])
+print("18. Acronym for 'Python For Everyone':", acronym1)
