@@ -8,3 +8,8 @@ print("1. Concatenated Sentence:", sentence1)
 # 2. Concatenate 'Coding', 'For', 'All'
 sentence2 = ' '.join(['Coding', 'For', 'All'])
 print("2. Sentence 2:", sentence2)
+
+# 3, 4, 5. Variable declaration & length
+company = "Coding For All"
+print("3 & 4. Company Name:", company)
+print("5. Length of Company:", len(company))
