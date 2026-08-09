@@ -22,3 +22,6 @@ print("8. Capitalize & Title:", company.capitalize(), "|", company.title())
 # 9. Slice out the first word
 first_word = company.split()[0]
 print("9. First Word:", first_word)
+
+# 10. Check if string contains 'Coding'
+print("10. Contains 'Coding'?:", 'Coding' in company)
