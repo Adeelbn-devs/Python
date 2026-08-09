@@ -50,3 +50,7 @@ phrase2 = "Coding For All"
 acronym2 = ''.join([w[0] for w in phrase2.split()])
 print("19. Acronym for 'Coding For All':", acronym2)
 
+# 20, 21, 22. Positions of characters
+print("20. Position of 'C':", company.index('C'))
+print("21. Position of 'F':", company.index('F'))
+print("22. Last position of 'l':", company.rfind('l'))
