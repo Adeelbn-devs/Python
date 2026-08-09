@@ -13,3 +13,8 @@ print("2. Sentence 2:", sentence2)
 company = "Coding For All"
 print("3 & 4. Company Name:", company)
 print("5. Length of Company:", len(company))
+
+# 6, 7, 8. Case conversions
+print("6. Uppercase:", company.upper())
+print("7. Lowercase:", company.lower())
+print("8. Capitalize & Title:", company.capitalize(), "|", company.title())
