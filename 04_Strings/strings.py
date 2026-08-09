@@ -30,3 +30,8 @@ print("10. Contains 'Coding'?:", 'Coding' in company)
 print("11. Replace 'Coding' with 'Python':", company.replace('Coding', 'Python'))
 sentence_everyone = "Python for Everyone"
 print("12. Replace 'Everyone' with 'All':", sentence_everyone.replace('Everyone', 'All'))
+
+# 13, 14. Split operations
+print("13. Split 'Coding For All':", company.split(' '))
+tech_companies = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
+print("14. Tech Companies List:", tech_companies.split(', '))
