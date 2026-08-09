@@ -54,3 +54,8 @@ print("19. Acronym for 'Coding For All':", acronym2)
 print("20. Position of 'C':", company.index('C'))
 print("21. Position of 'F':", company.index('F'))
 print("22. Last position of 'l':", company.rfind('l'))
+
+# 23, 24, 25. Searching in sentences
+sentence3 = 'You cannot cut a tree down having stood on it because it is bad'
+print("23. First occurrence of 'because':", sentence3.find('because'))
+print("24. Last occurrence of 'because':", sentence3.rfind('because'))
