@@ -18,3 +18,7 @@ print("5. Length of Company:", len(company))
 print("6. Uppercase:", company.upper())
 print("7. Lowercase:", company.lower())
 print("8. Capitalize & Title:", company.capitalize(), "|", company.title())
+
+# 9. Slice out the first word
+first_word = company.split()[0]
+print("9. First Word:", first_word)
