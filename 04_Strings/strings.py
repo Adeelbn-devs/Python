@@ -79,3 +79,8 @@ print("29. Joined Libraries:", ' # '.join(python_libraries))
 
 # 30. New line escape sequence
 print("\n30. Escape Sequences:\nI am enjoying this challenge.\nI wonder what is next.")
+
+# 31. Tab escape sequence formatting
+print("\n31. Tab Formatted Table:")
+print("Name\t\tAge\tCountry\t\tCity")
+print("Adeel\t\t19\tIndia\t\tBengaluru")
