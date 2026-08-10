@@ -76,3 +76,6 @@ print("    Is 'thirty_days_of_python' valid identifier?:", 'thirty_days_of_pytho
 # 29. Join list with hash `#`
 python_libraries = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
 print("29. Joined Libraries:", ' # '.join(python_libraries))
+
+# 30. New line escape sequence
+print("\n30. Escape Sequences:\nI am enjoying this challenge.\nI wonder what is next.")
