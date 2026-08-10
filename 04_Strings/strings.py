@@ -68,3 +68,7 @@ print("26. Sliced phrase:", sentence3[start_pos:])
 # 27. Strip whitespace
 spaced_str = '   Coding For All      '
 print("27. Stripped String:", f"'{spaced_str.strip()}'")
+
+# 28. Identifier validation
+print("28. Is '30DaysOfPython' valid identifier?:", '30DaysOfPython'.isidentifier())
+print("    Is 'thirty_days_of_python' valid identifier?:", 'thirty_days_of_python'.isidentifier())
