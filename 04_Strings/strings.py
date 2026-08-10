@@ -84,3 +84,9 @@ print("\n30. Escape Sequences:\nI am enjoying this challenge.\nI wonder what is 
 print("\n31. Tab Formatted Table:")
 print("Name\t\tAge\tCountry\t\tCity")
 print("Adeel\t\t19\tIndia\t\tBengaluru")
+
+# 32. String formatting with Circle Area
+radius = 10
+pi = 3.14
+area = pi * radius ** 2
+print(f"\n32. The area of a circle with radius {radius} is {area} meters square.")
