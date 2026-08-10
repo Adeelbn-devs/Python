@@ -59,3 +59,8 @@ print("22. Last position of 'l':", company.rfind('l'))
 sentence3 = 'You cannot cut a tree down having stood on it because it is bad'
 print("23. First occurrence of 'because':", sentence3.find('because'))
 print("24. Last occurrence of 'because':", sentence3.rfind('because'))
+
+
+# 26. Slice out 'because it is bad'
+start_pos = sentence3.find('because')
+print("26. Sliced phrase:", sentence3[start_pos:])
