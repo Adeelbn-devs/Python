@@ -90,3 +90,10 @@ radius = 10
 pi = 3.14
 area = pi * radius ** 2
 print(f"\n32. The area of a circle with radius {radius} is {area} meters square.")
+
+# 33. Math operations formatting using F-Strings
+a, b = 8, 6
+print("\n33. Math Expressions:")
+print(f"{a} + {b} = {a + b}")
+print(f"{a} - {b} = {a - b}")
+print(f"{a} * {b} = {a * b}")
