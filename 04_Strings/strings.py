@@ -72,3 +72,7 @@ print("27. Stripped String:", f"'{spaced_str.strip()}'")
 # 28. Identifier validation
 print("28. Is '30DaysOfPython' valid identifier?:", '30DaysOfPython'.isidentifier())
 print("    Is 'thirty_days_of_python' valid identifier?:", 'thirty_days_of_python'.isidentifier())
+
+# 29. Join list with hash `#`
+python_libraries = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
+print("29. Joined Libraries:", ' # '.join(python_libraries))
