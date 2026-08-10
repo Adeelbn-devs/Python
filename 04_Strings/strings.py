@@ -64,3 +64,7 @@ print("24. Last occurrence of 'because':", sentence3.rfind('because'))
 # 26. Slice out 'because it is bad'
 start_pos = sentence3.find('because')
 print("26. Sliced phrase:", sentence3[start_pos:])
+
+# 27. Strip whitespace
+spaced_str = '   Coding For All      '
+print("27. Stripped String:", f"'{spaced_str.strip()}'")
