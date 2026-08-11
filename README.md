@@ -10,7 +10,7 @@ Welcome to my Python repository! I am learning Python step-by-step, building con
 - [**02_Day_Variables_builtin_functions**](./02_Day_Variables_builtin_functions) — Variables, Types, Casting
 - [**03_Operators**](./03_Operators) — Arithmetic, Logical, Bitwise Operators
 - [**04_Strings**](./04_Strings) — Slicing, String Methods, Formatting
-- [**05_Lists_Tuples**](./05_Lists_Tuples) — Ordered collections, Methods
+- [**05_Lists_Tuples**](./05_Lists) — Ordered collections, Methods
 - [**06_Dictionaries_Sets**](./06_Dictionaries_Sets) — Key-Value pairs, Unique sets
 - [**07_Conditionals**](./07_Conditionals) — If, Elif, Else
 - [**08_Loops**](./08_Loops) — For loops, While loops
