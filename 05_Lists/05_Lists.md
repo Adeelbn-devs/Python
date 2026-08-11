@@ -23,3 +23,5 @@ empty_list = []
 # or
 empty_list = list()
 
+# List with mixed data types
+user_info = ['Adeel', 19, True, 'Bengaluru']
