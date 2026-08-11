@@ -2,3 +2,11 @@
 
 A list is a collection of different data types which is ordered and changeable (mutable). Lists are written with square brackets `[]`.
 
+---
+
+## 📌 Table of Contents
+1. [Creating a List](#1-creating-a-list)
+2. [Accessing List Items](#2-accessing-list-items)
+3. [Slicing a List](#3-slicing-a-list)
+4. [Modifying Lists (Add & Remove)](#4-modifying-lists)
+5. [Useful List Methods](#5-useful-list-methods)
