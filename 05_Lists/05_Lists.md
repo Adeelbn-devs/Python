@@ -31,3 +31,7 @@ user_info = ['Adeel', 19, True, 'Bengaluru']
 ## 2. Accessing List Items
 
 List items are indexed starting from 0. You can also use negative indexing (-1 for the last item).
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+print(fruits[0])   # banana
+print(fruits[-1])  # lemon (last item)
