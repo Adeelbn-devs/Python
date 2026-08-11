@@ -41,3 +41,7 @@ print(fruits[-1])  # lemon (last item)
 ## 3. Slicing a List
 
 You can extract a sub-list by specifying a range [start:stop:step].
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+print(fruits[1:3]) # ['orange', 'mango']
+print(fruits[::-1]) # Reverses the list: ['lemon', 'mango', 'orange', 'banana']
