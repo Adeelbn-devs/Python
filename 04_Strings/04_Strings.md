@@ -16,13 +16,13 @@ A string is a sequence of characters enclosed in quotes. Strings in Python can b
 
 
 ## 1. Creating Strings
-``python
+```python
 letter = 'P'                            # Single character string
 greeting = 'Hello, World!'              # Single quote string
 sentence = "Python is awesome!"         # Double quote string
 multiline = '''I am learning Python
 step-by-step with daily commits.'''     # Multiline string
-
+```
 ---
 
 
