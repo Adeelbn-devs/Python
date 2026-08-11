@@ -17,7 +17,7 @@ A list is a collection of different data types which is ordered and changeable (
 
 You can create an empty list or a list with initial values. A list can contain mixed data types.
 
-``python
+```python
 # Empty list
 empty_list = []
 # or
@@ -25,7 +25,7 @@ empty_list = list()
 
 # List with mixed data types
 user_info = ['Adeel', 19, True, 'Bengaluru']
-
+```
 ---
 
 ## 2. Accessing List Items
