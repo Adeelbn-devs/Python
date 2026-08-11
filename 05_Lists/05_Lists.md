@@ -25,3 +25,9 @@ empty_list = list()
 
 # List with mixed data types
 user_info = ['Adeel', 19, True, 'Bengaluru']
+
+---
+
+## 2. Accessing List Items
+
+List items are indexed starting from 0. You can also use negative indexing (-1 for the last item).
