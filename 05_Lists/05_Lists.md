@@ -35,3 +35,9 @@ List items are indexed starting from 0. You can also use negative indexing (-1 f
 fruits = ['banana', 'orange', 'mango', 'lemon']
 print(fruits[0])   # banana
 print(fruits[-1])  # lemon (last item)
+
+---
+
+## 3. Slicing a List
+
+You can extract a sub-list by specifying a range [start:stop:step].
