@@ -16,3 +16,10 @@ A list is a collection of different data types which is ordered and changeable (
 ## 1. Creating a List
 
 You can create an empty list or a list with initial values. A list can contain mixed data types.
+
+``python
+# Empty list
+empty_list = []
+# or
+empty_list = list()
+
