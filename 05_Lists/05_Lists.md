@@ -69,3 +69,4 @@ fruits.pop()                  # Removes the last item
 |---|---|---|
 | `.append(item)` | Adds an item to the end of the list | `list.append(5)` |
 | `.insert(index, item)` | Adds an item at a specific index | `list.insert(0, 'A')` |
+| `.remove(item)` | Removes the first occurrence of an item | `list.remove('apple')` |
