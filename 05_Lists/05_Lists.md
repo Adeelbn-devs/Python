@@ -76,3 +76,4 @@ fruits.pop()                  # Removes the last item
 | `.count(item)` | Returns the number of times an item appears | `list.count(2)` |
 | `.sort()` | Sorts the list in ascending order | `list.sort()` |
 | `.reverse()` | Reverses the order of the list | `list.reverse()` |
+| `.extend(list2)` | Appends elements from another list | `list1.extend(list2)` |
