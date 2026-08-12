@@ -63,3 +63,6 @@ fruits.insert(1, 'guava')     # Adds at index 1
 # Removing items
 fruits.remove('mango')        # Removes specific item
 fruits.pop()                  # Removes the last item
+```
+
+| Method | Description | Example |
