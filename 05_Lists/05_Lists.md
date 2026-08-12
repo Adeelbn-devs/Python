@@ -74,3 +74,4 @@ fruits.pop()                  # Removes the last item
 | `.clear()` | Empties the list | `list.clear()` |
 | `.index(item)` | Returns the index of the first matched item | `list.index('mango')` |
 | `.count(item)` | Returns the number of times an item appears | `list.count(2)` |
+| `.sort()` | Sorts the list in ascending order | `list.sort()` |
