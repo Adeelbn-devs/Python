@@ -59,3 +59,7 @@ fruits[0] = 'apple'
 # Adding items
 fruits.append('grape')        # Adds to the end
 fruits.insert(1, 'guava')     # Adds at index 1
+
+# Removing items
+fruits.remove('mango')        # Removes specific item
+fruits.pop()                  # Removes the last item
