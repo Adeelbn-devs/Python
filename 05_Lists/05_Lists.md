@@ -66,3 +66,5 @@ fruits.pop()                  # Removes the last item
 ```
 
 | Method | Description | Example |
+|---|---|---|
+| `.append(item)` | Adds an item to the end of the list | `list.append(5)` |
