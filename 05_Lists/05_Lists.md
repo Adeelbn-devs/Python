@@ -17,7 +17,7 @@ A list is a collection of different data types which is ordered and changeable (
 
 You can create an empty list or a list with initial values. A list can contain mixed data types.
 
-``python
+```python
 # Empty list
 empty_list = []
 # or
@@ -25,6 +25,7 @@ empty_list = list()
 
 # List with mixed data types
 user_info = ['Adeel', 19, True, 'Bengaluru']
+```
 
 ---
 
@@ -32,9 +33,11 @@ user_info = ['Adeel', 19, True, 'Bengaluru']
 
 List items are indexed starting from 0. You can also use negative indexing (-1 for the last item).
 
+```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
 print(fruits[0])   # banana
 print(fruits[-1])  # lemon (last item)
+```
 
 ---
 
@@ -42,6 +45,14 @@ print(fruits[-1])  # lemon (last item)
 
 You can extract a sub-list by specifying a range [start:stop:step].
 
+```python
 fruits = ['banana', 'orange', 'mango', 'lemon']
 print(fruits[1:3]) # ['orange', 'mango']
 print(fruits[::-1]) # Reverses the list: ['lemon', 'mango', 'orange', 'banana']
+```
+
+---
+
+## 4. Modifying Lists
+
+Lists are mutable, meaning you can change, add, or remove items after creation.
