@@ -51,3 +51,7 @@ print(fruits[::-1]) # Reverses the list: ['lemon', 'mango', 'orange', 'banana']
 
 ## 4. Modifying Lists
 Lists are mutable, meaning you can change, add, or remove items after creation.
+
+```python
+# Changing an item
+fruits[0] = 'apple'
