@@ -72,3 +72,4 @@ fruits.pop()                  # Removes the last item
 | `.remove(item)` | Removes the first occurrence of an item | `list.remove('apple')` |
 | `.pop(index)` | Removes and returns item at index (default last) | `list.pop()` |
 | `.clear()` | Empties the list | `list.clear()` |
+| `.index(item)` | Returns the index of the first matched item | `list.index('mango')` |
