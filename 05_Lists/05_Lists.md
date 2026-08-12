@@ -26,7 +26,6 @@ empty_list = list()
 # List with mixed data types
 user_info = ['Adeel', 19, True, 'Bengaluru']
 ```
-
 ---
 
 ## 2. Accessing List Items
@@ -38,7 +37,6 @@ fruits = ['banana', 'orange', 'mango', 'lemon']
 print(fruits[0])   # banana
 print(fruits[-1])  # lemon (last item)
 ```
-
 ---
 
 ## 3. Slicing a List
@@ -51,8 +49,5 @@ print(fruits[1:3]) # ['orange', 'mango']
 print(fruits[::-1]) # Reverses the list: ['lemon', 'mango', 'orange', 'banana']
 ```
 
----
-
 ## 4. Modifying Lists
-
 Lists are mutable, meaning you can change, add, or remove items after creation.
