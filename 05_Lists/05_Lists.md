@@ -55,3 +55,7 @@ Lists are mutable, meaning you can change, add, or remove items after creation.
 ```python
 # Changing an item
 fruits[0] = 'apple'
+
+# Adding items
+fruits.append('grape')        # Adds to the end
+fruits.insert(1, 'guava')     # Adds at index 1
