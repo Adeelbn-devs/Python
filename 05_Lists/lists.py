@@ -17,3 +17,7 @@ print("First:", first_item, "| Middle:", middle_item, "| Last:", last_item)
 # 5. Mixed data types list
 mixed_data_types = ['Adeel', 19, 5.9, 'Single', 'Bengaluru']
 print("Mixed List:", mixed_data_types)
+
+# 6, 7. IT Companies list
+it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
+print("IT Companies:", it_companies)
