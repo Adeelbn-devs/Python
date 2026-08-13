@@ -13,3 +13,7 @@ first_item = numbers[0]
 middle_item = numbers[len(numbers) // 2]
 last_item = numbers[-1]
 print("First:", first_item, "| Middle:", middle_item, "| Last:", last_item)
+
+# 5. Mixed data types list
+mixed_data_types = ['Adeel', 19, 5.9, 'Single', 'Bengaluru']
+print("Mixed List:", mixed_data_types)
