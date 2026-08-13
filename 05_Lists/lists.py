@@ -21,3 +21,7 @@ print("Mixed List:", mixed_data_types)
 # 6, 7. IT Companies list
 it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
 print("IT Companies:", it_companies)
+
+# 8. Add an IT company
+it_companies.append('TCS')
+print("After append:", it_companies)
