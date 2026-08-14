@@ -34,3 +34,7 @@ print("After insert in middle:", it_companies)
 # 10. Change one company name to uppercase
 it_companies[1] = it_companies[1].upper()
 print("Uppercase update:", it_companies)
+
+# 11. Join list with '#; '
+joined_companies = '#; '.join(it_companies)
+print("Joined Companies:", joined_companies)
