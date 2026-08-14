@@ -42,3 +42,7 @@ print("Joined Companies:", joined_companies)
 # 12. Check if a company exists
 company_check = 'Apple' in it_companies
 print("Does Apple exist?:", company_check)
+
+# 13. Sort the list
+it_companies.sort()
+print("Sorted list:", it_companies)
