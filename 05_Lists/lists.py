@@ -30,3 +30,7 @@ print("After append:", it_companies)
 middle_index = len(it_companies) // 2
 it_companies.insert(middle_index, 'Infosys')
 print("After insert in middle:", it_companies)
+
+# 10. Change one company name to uppercase
+it_companies[1] = it_companies[1].upper()
+print("Uppercase update:", it_companies)
