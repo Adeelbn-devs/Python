@@ -46,3 +46,7 @@ print("Does Apple exist?:", company_check)
 # 13. Sort the list
 it_companies.sort()
 print("Sorted list:", it_companies)
+
+# 14. Reverse the list
+it_companies.reverse()
+print("Reversed list:", it_companies)
