@@ -50,3 +50,7 @@ print("Sorted list:", it_companies)
 # 14. Reverse the list
 it_companies.reverse()
 print("Reversed list:", it_companies)
+
+# 15. Slice out first 3 and last 3 companies
+print("First 3 companies:", it_companies[:3])
+print("Last 3 companies:", it_companies[-3:])
