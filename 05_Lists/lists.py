@@ -38,3 +38,7 @@ print("Uppercase update:", it_companies)
 # 11. Join list with '#; '
 joined_companies = '#; '.join(it_companies)
 print("Joined Companies:", joined_companies)
+
+# 12. Check if a company exists
+company_check = 'Apple' in it_companies
+print("Does Apple exist?:", company_check)
