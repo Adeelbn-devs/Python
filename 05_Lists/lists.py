@@ -25,3 +25,8 @@ print("IT Companies:", it_companies)
 # 8. Add an IT company
 it_companies.append('TCS')
 print("After append:", it_companies)
+
+# 9. Insert an IT company in the middle
+middle_index = len(it_companies) // 2
+it_companies.insert(middle_index, 'Infosys')
+print("After insert in middle:", it_companies)
