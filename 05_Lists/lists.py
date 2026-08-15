@@ -54,3 +54,7 @@ print("Reversed list:", it_companies)
 # 15. Slice out first 3 and last 3 companies
 print("First 3 companies:", it_companies[:3])
 print("Last 3 companies:", it_companies[-3:])
+
+# 16. Remove middle IT company
+it_companies.pop(len(it_companies) // 2)
+print("After removing middle company:", it_companies)
