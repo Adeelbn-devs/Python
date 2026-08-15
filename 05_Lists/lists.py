@@ -58,3 +58,7 @@ print("Last 3 companies:", it_companies[-3:])
 # 16. Remove middle IT company
 it_companies.pop(len(it_companies) // 2)
 print("After removing middle company:", it_companies)
+
+# 17. Clear the list
+it_companies.clear()
+print("Cleared list:", it_companies)
