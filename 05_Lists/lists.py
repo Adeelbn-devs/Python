@@ -65,3 +65,4 @@ print("Cleared list:", it_companies)
 
 
 # ==================== LEVEL 2 ====================
+print("\n--- Level 2 (Ages Statistics) ---")
