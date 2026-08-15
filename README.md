@@ -1,9 +1,5 @@
 <!-- Designer README: High-impact, polished, and engaging -->
 
-<p align="center">
-  <img src="./images/image.png" alt="banner" style="max-width:100%; border-radius:12px; box-shadow:0 10px 30px rgba(2,6,23,0.3)" />
-</p>
-
 <h1 align="center">✨ Python Learning Journey — Code Lab & Portfolio</h1>
 
 <p align="center">A visual, hands-on roadmap to learn Python step-by-step — perfect for practice, teaching, and showcasing your progress.</p>
