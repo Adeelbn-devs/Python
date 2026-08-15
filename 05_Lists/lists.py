@@ -62,3 +62,6 @@ print("After removing middle company:", it_companies)
 # 17. Clear the list
 it_companies.clear()
 print("Cleared list:", it_companies)
+
+
+# ==================== LEVEL 2 ====================
