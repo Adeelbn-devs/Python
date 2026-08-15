@@ -68,3 +68,6 @@ print("Cleared list:", it_companies)
 print("\n--- Level 2 (Ages Statistics) ---")
 
 ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+
+# 1. Sort the list and find the min and max age
+ages.sort()
