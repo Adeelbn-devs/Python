@@ -86,3 +86,6 @@ ages.sort() # sort again after appending
 n = len(ages)
 if n % 2 == 0:
     median_age = (ages[n//2 - 1] + ages[n//2]) / 2
+else:
+    median_age = ages[n//2]
+print("Median Age:", median_age)
