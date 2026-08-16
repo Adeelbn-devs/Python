@@ -80,3 +80,9 @@ print(f"Min Age: {min_age}, Max Age: {max_age}")
 ages.append(min_age)
 ages.append(max_age)
 print("After adding min and max back:", ages)
+
+# 3. Find the median age
+ages.sort() # sort again after appending
+n = len(ages)
+if n % 2 == 0:
+    median_age = (ages[n//2 - 1] + ages[n//2]) / 2
