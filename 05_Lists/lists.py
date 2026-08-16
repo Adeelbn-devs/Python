@@ -71,3 +71,7 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
 # 1. Sort the list and find the min and max age
 ages.sort()
+min_age = ages[0]
+max_age = ages[-1]
+print("Sorted ages:", ages)
+print(f"Min Age: {min_age}, Max Age: {max_age}")
