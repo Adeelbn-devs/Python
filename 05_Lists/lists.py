@@ -100,3 +100,4 @@ print("Range of Ages:", age_range)
 
 # 6. Compare the value of (min - average) and (max - average)
 diff_min = abs(min_age - average_age)
+diff_max = abs(max_age - average_age)
