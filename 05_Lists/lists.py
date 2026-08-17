@@ -92,3 +92,4 @@ print("Median Age:", median_age)
 
 # 4. Find the average age
 average_age = sum(ages) / len(ages)
+print("Average Age:", average_age)
