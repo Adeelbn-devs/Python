@@ -89,3 +89,6 @@ if n % 2 == 0:
 else:
     median_age = ages[n//2]
 print("Median Age:", median_age)
+
+# 4. Find the average age
+average_age = sum(ages) / len(ages)
