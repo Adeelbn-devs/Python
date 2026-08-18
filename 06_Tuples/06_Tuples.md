@@ -6,3 +6,4 @@ A tuple is a collection of different data types which is ordered and **unchangea
 
 ## 📌 Table of Contents
 1. [Creating a Tuple](#1-creating-a-tuple)
+2. [Accessing Tuple Items](#2-accessing-tuple-items)
