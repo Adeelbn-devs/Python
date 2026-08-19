@@ -21,3 +21,6 @@ A tuple is a collection of different data types which is ordered and **unchangea
 empty_tuple = ()
 # or
 empty_tuple = tuple()
+
+# Tuple with initial values
+fruits = ('banana', 'orange', 'mango', 'lemon')
