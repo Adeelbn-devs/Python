@@ -24,3 +24,8 @@ empty_tuple = tuple()
 
 # Tuple with initial values
 fruits = ('banana', 'orange', 'mango', 'lemon')
+```
+
+## 2. Accessing Tuple Items
+
+Like lists, we use positive or negative indexing to access tuple items.
