@@ -11,3 +11,7 @@ A tuple is a collection of different data types which is ordered and **unchangea
 4. [Changing Tuples to Lists](#4-changing-tuples-to-lists)
 5. [Joining Tuples](#5-joining-tuples)
 6. [Tuple Methods](#6-tuple-methods)
+
+---
+
+## 1. Creating a Tuple
