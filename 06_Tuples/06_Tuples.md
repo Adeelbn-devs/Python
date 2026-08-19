@@ -39,3 +39,5 @@ print(fruits[-1])  # lemon
 
 ### 3. Slicing a Tuple
 We can slice a tuple to get a range of items.
+
+fruits = ('banana', 'orange', 'mango', 'lemon')
