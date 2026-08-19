@@ -19,3 +19,5 @@ A tuple is a collection of different data types which is ordered and **unchangea
 ```python
 # Empty tuple
 empty_tuple = ()
+# or
+empty_tuple = tuple()
