@@ -32,3 +32,4 @@ Like lists, we use positive or negative indexing to access tuple items.
 
 fruits = ('banana', 'orange', 'mango', 'lemon')
 print(fruits[0])   # banana
+print(fruits[-1])  # lemon
