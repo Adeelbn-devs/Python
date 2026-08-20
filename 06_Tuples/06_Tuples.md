@@ -74,3 +74,4 @@ Tuples have very few built-in methods because they are immutable.
 | Method | Description| Example |
 |---|---|---|
 | `.count(item)` | Returns the number of times an item appears | `tpl.count('apple')` |
+| `.index(item)` | Returns the first index where the item is found | `tpl.index('orange')` |
