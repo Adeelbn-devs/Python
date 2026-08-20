@@ -49,3 +49,10 @@ print(fruits[1:3]) # ('orange', 'mango')
 ## 4. Changing Tuples to Lists
 
 Since tuples are unchangeable, if we want to modify a tuple, we must first change it to a list, modify the list, and then change it back to a tuple.
+
+```python
+fruits = ('banana', 'orange', 'mango', 'lemon')
+fruits_list = list(fruits)
+fruits_list[0] = 'apple'
+fruits = tuple(fruits_list)
+```
