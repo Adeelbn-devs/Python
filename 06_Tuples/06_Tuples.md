@@ -70,3 +70,5 @@ food = fruits + vegetables
 ### 6. Tuple Methods
 
 Tuples have very few built-in methods because they are immutable.
+
+| Method 
