@@ -38,9 +38,14 @@ print(fruits[-1])  # lemon
 
 
 ### 3. Slicing a Tuple
+
 We can slice a tuple to get a range of items.
 
 ```python
 fruits = ('banana', 'orange', 'mango', 'lemon')
 print(fruits[1:3]) # ('orange', 'mango')
 ```
+
+## 4. Changing Tuples to Lists
+
+Since tuples are unchangeable, if we want to modify a tuple, we must first change it to a list, modify the list, and then change it back to a tuple.
