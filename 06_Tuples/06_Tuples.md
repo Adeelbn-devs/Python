@@ -56,3 +56,7 @@ fruits_list = list(fruits)
 fruits_list[0] = 'apple'
 fruits = tuple(fruits_list)
 ```
+
+### 5. Joining Tuples
+
+We can join two or more tuples using the + operator.
