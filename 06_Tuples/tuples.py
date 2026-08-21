@@ -1,0 +1,1 @@
+# Topic 06: Tuples Practice Script
