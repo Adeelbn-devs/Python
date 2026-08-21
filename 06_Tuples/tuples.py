@@ -10,3 +10,5 @@ print("Empty Tuple:", empty_tuple)
 # 2. Create a tuple containing names of your sisters and your brothers
 brothers = ('Rehan', 'Musheer', 'Karan')
 sisters = ('Saniya', 'Navya', 'Raghavi')
+
+# 3. Join the three tuples and assign it to a variable called food_stuff_tp
