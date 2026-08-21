@@ -12,3 +12,4 @@ brothers = ('Rehan', 'Musheer', 'Karan')
 sisters = ('Saniya', 'Navya', 'Raghavi')
 
 # 3. Join the three tuples and assign it to a variable called food_stuff_tp
+food_stuff_tp = brothers + sisters
