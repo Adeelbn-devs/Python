@@ -33,3 +33,5 @@ del food_stuff_tp
 
 # 8. Check if an item exists in tuple:
 nordic_countries = ('Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden')
+
+# Check if 'Estonia' is a nordic country
