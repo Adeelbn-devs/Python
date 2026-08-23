@@ -16,7 +16,8 @@ food_stuff_tp = brothers + sisters
 print("Food Stuff Tuple:", food_stuff_tp)
 
 # 4. How many siblings do you have?
-print("Number of siblings:", len(sisters) + len(brothers))
+print("Number of siblings:", len(siblings))
 
 # 5. Modify the siblings tuple and add the name of your father and mother
 # Note: Tuples are immutable, so we use string concatenation to add new items
+family_members = siblings + ('Father', 'Mother')
