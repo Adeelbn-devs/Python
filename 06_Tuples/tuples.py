@@ -19,3 +19,4 @@ print("Food Stuff Tuple:", food_stuff_tp)
 print("Number of siblings:", len(sisters) + len(brothers))
 
 # 5. Modify the siblings tuple and add the name of your father and mother
+# Note: Tuples are immutable, so we use string concatenation to add new items
