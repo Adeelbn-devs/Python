@@ -17,3 +17,5 @@ print("Food Stuff Tuple:", food_stuff_tp)
 
 # 4. How many siblings do you have?
 print("Number of siblings:", len(sisters) + len(brothers))
+
+# 5. Modify the siblings tuple and add the name of your father and mother
