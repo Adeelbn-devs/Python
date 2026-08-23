@@ -14,3 +14,6 @@ sisters = ('Saniya', 'Navya', 'Raghavi')
 # 3. Join the three tuples and assign it to a variable called food_stuff_tp
 food_stuff_tp = brothers + sisters
 print("Food Stuff Tuple:", food_stuff_tp)
+
+# 4. How many siblings do you have?
+print("Number of siblings:", len(sisters) + len(brothers))
