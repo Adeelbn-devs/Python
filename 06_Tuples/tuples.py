@@ -22,3 +22,5 @@ print("Number of siblings:", len(sisters) + len(brothers))
 # Note: Tuples are immutable, so we use string concatenation to add new items
 family_members = food_stuff_tp + ('Father', 'Mother')
 print("Family Members:", family_members)
+
+# 6. Slice out the first three items and the last three items from food_staff_lt list
