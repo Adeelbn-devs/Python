@@ -28,3 +28,4 @@ print("First 3 items:", food_stuff_lt[:3])
 print("Last 3 items:", food_stuff_lt[-3:])
 
 # 7. Delete the food_stuff_tp tuple completely
+del food_stuff_tp
