@@ -30,3 +30,5 @@ print("Last 3 items:", food_stuff_lt[-3:])
 # 7. Delete the food_stuff_tp tuple completely
 del food_stuff_tp
 # print(food_stuff_tp) # This would throw a NameError because it is deleted
+
+# 8. Check if an item exists in tuple:
