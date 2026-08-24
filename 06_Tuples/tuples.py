@@ -25,3 +25,4 @@ print("Family Members:", family_members)
 
 # 6. Slice out the first three items and the last three items from food_staff_lt list
 print("First 3 items:", food_stuff_lt[:3])
+print("Last 3 items:", food_stuff_lt[-3:])
