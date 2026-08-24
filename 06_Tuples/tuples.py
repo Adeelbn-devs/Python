@@ -32,3 +32,4 @@ del food_stuff_tp
 # print(food_stuff_tp) # This would throw a NameError because it is deleted
 
 # 8. Check if an item exists in tuple:
+nordic_countries = ('Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden')
