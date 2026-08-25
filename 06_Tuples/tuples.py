@@ -24,8 +24,8 @@ family_members = food_stuff_tp + ('Father', 'Mother')
 print("Family Members:", family_members)
 
 # 6. Slice out the first three items and the last three items from food_staff_lt list
-print("First 3 items:", food_stuff_lt[:3])
-print("Last 3 items:", food_stuff_lt[-3:])
+print("First 3 items:", food_stuff_tp[:3])
+print("Last 3 items:", food_stuff_tp[-3:])
 
 # 7. Delete the food_stuff_tp tuple completely
 del food_stuff_tp
@@ -39,3 +39,4 @@ print("Is Estonia a nordic country?:", 'Estonia' in nordic_countries)
 
 # Check if 'Iceland' is a nordic country
 print("Is Iceland a nordic country?:", 'Iceland' in nordic_countries)
+
