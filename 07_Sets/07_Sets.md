@@ -20,3 +20,4 @@ A set is a collection of items which is **unordered** and **un-indexed**. Sets a
 empty_set = set()
 
 # Set with initial values (duplicates are automatically removed)
+fruits = {'banana', 'orange', 'mango', 'apple', 'apple'}
