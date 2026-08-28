@@ -10,3 +10,7 @@ A set is a collection of items which is **unordered** and **un-indexed**. Sets a
 3. [Removing Items](#3-removing-items)
 4. [Set Operations (Union, Intersection, etc.)](#4-set-operations)
 5. [Useful Set Methods](#5-useful-set-methods)
+
+---
+
+## 1. Creating a Set
