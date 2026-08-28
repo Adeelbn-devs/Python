@@ -17,3 +17,4 @@ A set is a collection of items which is **unordered** and **un-indexed**. Sets a
 
 ```python
 # Empty set (must use set() because {} creates an empty dictionary)
+empty_set = set()
