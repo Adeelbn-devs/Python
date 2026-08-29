@@ -14,3 +14,6 @@ A set is a collection of items which is **unordered** and **un-indexed**. Sets a
 ---
 
 ## 1. Creating a Set
+
+```python
+# Empty set (must use set() because {} creates an empty dictionary)
