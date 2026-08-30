@@ -22,3 +22,7 @@ empty_set = set()
 # Set with initial values (duplicates are automatically removed)
 fruits = {'banana', 'orange', 'mango', 'apple', 'apple'}
 print(fruits) # Output will not contain the second 'apple'
+
+```
+
+## 2. Adding Items
