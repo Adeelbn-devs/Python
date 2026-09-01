@@ -6,3 +6,4 @@ print(name) # This will print the value of the name variable
 
 
 one = 2000
+two = 3000
