@@ -5,6 +5,6 @@ print(a + b) # This will print the sum of a and b, which is 5
 print(name) # This will print the value of the name variable
 
 
-one = 2000 
-two = 3000
+one = 2000 # one is a variable that stores the value 2000
+two = 3000 
 print(one + two) # This will print the sum of one and two, which is 5000
