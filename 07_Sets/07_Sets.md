@@ -26,3 +26,6 @@ print(fruits) # Output will not contain the second 'apple'
 ```
 
 ## 2. Adding Items
+
+You can add a single item using .add() or multiple items using .update().
+
