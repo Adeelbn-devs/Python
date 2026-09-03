@@ -25,6 +25,8 @@ print(fruits) # Output will not contain the second 'apple'
 
 ```
 
+---
+
 ## 2. Adding Items
 
 You can add a single item using .add() or multiple items using .update().
@@ -33,3 +35,9 @@ You can add a single item using .add() or multiple items using .update().
 fruits = {'banana', 'orange'}
 fruits.add('mango')
 fruits.update(['lemon', 'apple']) # Takes a list, tuple, or another set
+```
+
+---
+
+## 3. Removing Items
+
