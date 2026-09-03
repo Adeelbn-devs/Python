@@ -29,3 +29,5 @@ print(fruits) # Output will not contain the second 'apple'
 
 You can add a single item using .add() or multiple items using .update().
 
+```python
+fruits = {'banana', 'orange'}
