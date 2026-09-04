@@ -41,3 +41,6 @@ fruits.update(['lemon', 'apple']) # Takes a list, tuple, or another set
 
 ## 3. Removing Items
 
+```python
+fruits = {'banana', 'orange', 'mango'}
+
