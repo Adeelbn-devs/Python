@@ -33,3 +33,4 @@ You can add a single item using .add() or multiple items using .update().
 
 ```python
 fruits = {'banana', 'orange'}
+fruits.add('mango')
