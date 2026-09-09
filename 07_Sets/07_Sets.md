@@ -41,3 +41,4 @@ fruits.update(['lemon', 'apple']) # Takes a list, tuple, or another set
 
 ```python
 fruits = {'banana', 'orange', 'mango'}
+fruits.remove('banana')   # Raises an error if 'banana' doesn't exist
