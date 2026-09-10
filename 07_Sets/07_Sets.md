@@ -31,3 +31,15 @@ You can add a single item using .add() or multiple items using .update().
 
 ```python
 fruits = {'banana', 'orange'}
+fruits.add('mango')
+fruits.update(['lemon', 'apple']) # Takes a list, tuple, or another set
+```
+
+---
+
+## 3. Removing Items
+
+```python
+fruits = {'banana', 'orange', 'mango'}
+
+
