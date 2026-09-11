@@ -43,3 +43,4 @@ fruits.update(['lemon', 'apple']) # Takes a list, tuple, or another set
 fruits = {'banana', 'orange', 'mango'}
 fruits.remove('banana')   # Raises an error if 'banana' doesn't exist
 fruits.discard('apple')   # Doesn't raise an error if 'apple' is not found
+removed_item = fruits.pop() # Removes a random item
