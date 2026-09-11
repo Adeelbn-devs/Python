@@ -50,3 +50,6 @@ fruits.clear()            # Empties the set
 ## 4. Set Operations
 
 Sets are highly useful for mathematical operations.
+
+```python
+st1 = {'item1', 'item2', 'item3'}
