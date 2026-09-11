@@ -53,3 +53,4 @@ Sets are highly useful for mathematical operations.
 
 ```python
 st1 = {'item1', 'item2', 'item3'}
+st2 = {'item3', 'item4'}
