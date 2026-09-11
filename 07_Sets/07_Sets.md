@@ -48,3 +48,5 @@ fruits.clear()            # Empties the set
 ```
 
 ## 4. Set Operations
+
+Sets are highly useful for mathematical operations.
