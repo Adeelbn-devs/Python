@@ -39,4 +39,5 @@ print("False and True is ", False and True)
 print("False and False is ", False and False)
 
 # Truth table of 'not' 
-print(not(True))
+print("not(True) is ", not(True))
+print("not(False) is ", not(False))
