@@ -9,3 +9,9 @@ t = type(b) #class <float>
 
 print(t)
 
+
+
+c = "Adeel"
+t = type(c) #class <str>
+
+print(t)
