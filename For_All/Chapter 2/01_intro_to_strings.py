@@ -2,5 +2,5 @@ name = "Adeel"
 
 nameshort = name[0:3] # start from index 0 all the way till 3 (excluding 3)
 print(nameshort) # Output: Ade
-charecters1 = name[1]
+charecters1 = name[1] # Access the character at index 1
 print(charecters1)
