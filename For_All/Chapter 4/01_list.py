@@ -5,4 +5,4 @@ print(friends[0])# This will print the first element of the list, which is "Appl
 
 friends[0] = "Grapes" # Unlike Strings lists are mutable
 
-print(friends[0])
+print(friends[0]) # This will print the updated first element of the list, which is now "Grapes"
