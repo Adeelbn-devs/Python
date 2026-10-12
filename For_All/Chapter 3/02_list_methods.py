@@ -1,5 +1,5 @@
 friends = ["Apple", "Orange", 5, 345.06, False, "Aakash", "Rohan"] # This is a list in Python
-print(friends)
+print(friends) # This will print the list
 friends.append("Adeel")
 print(friends)
 
