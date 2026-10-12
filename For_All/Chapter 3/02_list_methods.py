@@ -1,7 +1,7 @@
 friends = ["Apple", "Orange", 5, 345.06, False, "Aakash", "Rohan"] # This is a list in Python
 print(friends) # This will print the list
-friends.append("Adeel")
-print(friends)
+friends.append("Adeel") # This will add "Adeel" to the end of the list
+print(friends) 
 
 l1 = [1, 34,62, 2, 6, 11]
 # l1.sort()
