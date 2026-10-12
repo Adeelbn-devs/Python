@@ -3,7 +3,7 @@ print(friends) # This will print the list
 friends.append("Adeel") # This will add "Adeel" to the end of the list
 print(friends) # This will print the list after adding "Adeel"
 
-l1 = [1, 34,62, 2, 6, 11]
+l1 = [1, 34,62, 2, 6, 11] # This is a list in Python
 # l1.sort()
 # l1.reverse()
 # l1.insert(2, 333333) # Insert 333333 such that its index in the list is 3
