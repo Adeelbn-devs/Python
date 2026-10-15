@@ -9,4 +9,4 @@ l1 = [1, 34,62, 2, 6, 11] # This is a list in Python
 # l1.insert(2, 333333) # Insert 333333 such that its index in the list is 3
 value = l1.pop(3) # This will remove the value at index 3 from the list and return it
 print(value) # This will print the value that was removed from the list
-print(11)
+print(11) # This will print the value 11
