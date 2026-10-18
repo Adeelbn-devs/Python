@@ -1,4 +1,4 @@
-letter = '''Dear <|Name|>, 
+letter = '''Dear <|Name|>,  
 You are selected! 
 <|Date|> ''' # This is a template for the letter
 
