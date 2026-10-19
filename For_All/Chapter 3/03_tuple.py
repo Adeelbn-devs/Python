@@ -1,1 +1,2 @@
 a = (1,45,342,3424,False, "Adeel", "Tavakkal")
+print(a)
