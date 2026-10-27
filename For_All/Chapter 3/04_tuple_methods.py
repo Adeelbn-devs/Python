@@ -1,4 +1,4 @@
 a = (1,45,342,3424,False, 45, "Rohan", "Shivam") # This is a tuple in Python
-print(a) 
+print(a) # This will print the tuple
 
 no = a.count(45)
